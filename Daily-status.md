@@ -16,7 +16,7 @@
 ```
 - No of hours spent:9
 - What did we do today: CSS positioning
-                        CSS Tips
+                        CSS Tips ,CSS properties ,git
 - plans for Tomorrow : CSS Positioning AND CSS tips remaining
                        bootstrap
 
