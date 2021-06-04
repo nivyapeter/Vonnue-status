@@ -34,6 +34,10 @@ https://css-tricks.com/almanac/properties/
 - Time Taken :1 hour 45 minutes (Documentation)
 
 ## 04/06/2021
-
-
-
+# css positioning
+```
+https://www.youtube.com/watch?v=7ZXsPj43heo&list=PL4cUxeGkcC9hudKGi5o5UiWuTAGbxiLTh
+```
+- Lesson hours: 1 hour 10 minues
+- Time Taken: 4 hours 30 minutes
+- Lines of Code:
