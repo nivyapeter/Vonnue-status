@@ -30,7 +30,8 @@ https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPA
 ## css properties
 ```
 https://css-tricks.com/almanac/properties/
-- Time Taken :1 hour 45 minutes (Documentation)
 ```
+- Time Taken :1 hour 45 minutes (Documentation)
+
 
 
