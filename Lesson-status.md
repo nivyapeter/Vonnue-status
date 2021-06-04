@@ -40,4 +40,16 @@ https://www.youtube.com/watch?v=7ZXsPj43heo&list=PL4cUxeGkcC9hudKGi5o5UiWuTAGbxi
 ```
 - Lesson hours: 1 hour 10 minues
 - Time Taken: 4 hours 30 minutes
-- Lines of Code:419
+- Lines of Code : 419
+
+# css Tips
+```
+https://www.youtube.com/watch?v=B9OZkATMbag&list=PL4cUxeGkcC9htzG9o-QzCTsGMbmfuF4kk
+
+```
+-   Lesson hours: 1.75 hours
+-   Time Taken:2 hours
+-   Lines of Code :
+
+
+
