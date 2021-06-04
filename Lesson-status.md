@@ -51,5 +51,16 @@ https://www.youtube.com/watch?v=B9OZkATMbag&list=PL4cUxeGkcC9htzG9o-QzCTsGMbmfuF
 -   Time Taken:2 hours
 -   Lines of Code :
 
+# css properties & git
+ ```
+ https://css-tricks.com/almanac/properties/
+ 
+ https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR
+ 
+- Lesson hours:1 hour 40 minute 
+-  Time Taken:2.30 hours
+
+ 
+
 
 
