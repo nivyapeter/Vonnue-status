@@ -21,4 +21,12 @@
                        bootstrap
 
 ```
+## 05/06/2021
+```
+Total hours: 8
+HTML: 3 hours,
+CSS: 3 hours,
+LOC:2  hours
+- plans for Tomorrow : Task (microsoft Azure)
+
                         
