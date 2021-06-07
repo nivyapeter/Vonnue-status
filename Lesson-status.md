@@ -65,7 +65,7 @@ https://www.youtube.com/watch?v=B9OZkATMbag&list=PL4cUxeGkcC9htzG9o-QzCTsGMbmfuF
 
 -   Lesson hours:2
 -   Time Taken:6
--   Lines of Code :
+-   Lines of Code :851
 # css properties (extra)
 - Lesson hours:1 hour 40 minutes
 - Time Taken:2
